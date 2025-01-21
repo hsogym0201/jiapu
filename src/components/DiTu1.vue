@@ -229,6 +229,16 @@
               },
           }
           ],
+          title: {
+                show: true,
+                text: '姓氏时空分布图',
+                textStyle: {
+                    color: '#484848',
+                    fontSize: 20
+                },
+                left: '40%',
+                top: '10%'
+          },          
       },
       animationDurationUpdate: 5000,
       animationEasingUpdate: 'quinticInOut',
